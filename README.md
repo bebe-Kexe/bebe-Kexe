@@ -18,8 +18,11 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=bebe-Kexe&theme=tokyonight" alt="My GitHub Streak" />
   </a>
 </p>
-<p align="center">
-<a href="https://github.com/bebe-Kexe"><img src="https://wakatime.com/badge/github/bebe-Kexe/bebe-Kexe.svg" alt="wakatime"></a>
+
+<p align="center">  
+  <a href="https://github.com/bebe-Kexe">
+    <img src="https://wakatime.com/badge/user/84afb6de-12f0-449a-8e05-94545bf2c6da/project/789fd5e2-2f03-4d8c-bcd5-c9da6d0f2c38.svg" alt="Total time coded after wakatime was used" />
+  </a>
 </p>
 
 
