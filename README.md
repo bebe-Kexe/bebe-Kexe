@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Kexe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center" href="https://github.com/bebe-Kexe"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=27F4D2&center=true&vCenter=true&width=435&lines=Welcome!;kexe+%3D+%22Cookies+In+English%22" alt="Typing SVG" /></h1>
 <p align="center">
       <a href="https://github.com/bebe-Kexe"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=27F4D2&center=true&vCenter=true&width=435&lines=Welcome!;kexe+%3D+%22Cookies+In+English%22" alt="Typing SVG" /></a>
 </p>
