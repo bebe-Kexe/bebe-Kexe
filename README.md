@@ -21,13 +21,21 @@
 
 <p align="center">
   <a href="https://github.com/bebe-Kexe">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bebe-Kexe&theme=tokyonight" alt="My Activity Graph" />
+    <img src="https://wakatime.com/badge/user/018d0c0b-1e6e-4b6e-9d7e-8e8c7f7a0a1b.svg" alt="Total time coded since Jan 1 2023" />
+  </a>
+</p>
+
+
+
+<p align="center">
+  <a href="https://github.com/bebe-Kexe">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bebe-Kexe&theme=tokyonight&bg_color=282A36&hide_border=true" alt="My Activity Graph" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/bebe-Kexe">
-    <img src="https://komarev.com/ghpvc/?username=bebe-Kexe&style=flat-square&color=tokyonight" alt="My Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=bebe-Kexe&style=flat-square&color=27F4D2" alt="My Profile Views" />
   </a>
 </p>
 
@@ -36,3 +44,6 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="My Discord" />
   </a>
 </p>
+
+
+
