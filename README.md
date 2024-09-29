@@ -48,7 +48,13 @@
 ## Goodbye
 <p align="center">  
   <a href="https://github.com/bebe-Kexe">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=27F4D2&center=true&vCenter=true&width=435&lines=BYE+BYE+" alt="Typing SVG" /><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="200">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=27F4D2&center=true&vCenter=true&width=435&lines=BYE+BYE+" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/bebe-Kexe">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="200">
   </a>
 </p>
 
