@@ -1,6 +1,6 @@
 <h1 align="center" href="https://github.com/bebe-Kexe"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=27F4D2&center=true&vCenter=true&width=435&lines=Welcome!;kexe+%3D+%22Cookies+In+English%22" alt="Typing SVG" /></h1>
 
-
+## Overall Stats:
 <p align="center">
   <a href="https://github.com/bebe-Kexe">
     <img src="https://github-readme-stats.vercel.app/api?username=bebe-Kexe&show_icons=true&theme=tokyonight" alt="Kexe's GitHub Stats" />
@@ -38,9 +38,17 @@
   </a>
 </p>
 
+## Contact/Socials:
 <p align="center">
   <a href="https://github.com/bebe-Kexe">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="My Discord" />
+  </a>
+</p>
+
+## Goodbye
+<p align="center">  
+  <a href="https://github.com/bebe-Kexe">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=27F4D2&center=true&vCenter=true&width=435&lines=BYE+BYE+" alt="Typing SVG" /><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="">
   </a>
 </p>
 
