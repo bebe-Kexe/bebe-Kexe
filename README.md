@@ -18,13 +18,9 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=bebe-Kexe&theme=tokyonight" alt="My GitHub Streak" />
   </a>
 </p>
-
 <p align="center">
-  <a href="https://github.com/bebe-Kexe">
-    <img src="https://wakatime.com/badge/user/018d0c0b-1e6e-4b6e-9d7e-8e8c7f7a0a1b.svg" alt="Total time coded since Jan 1 2023" />
-  </a>
+<a href="https://github.com/bebe-Kexe"><img src="https://wakatime.com/badge/github/bebe-Kexe/bebe-Kexe.svg" alt="wakatime"></a>
 </p>
-
 
 
 <p align="center">
