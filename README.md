@@ -45,7 +45,7 @@
   </a>
 </p>
 
-## Goodbye
+## Bye Bye
 <p align="center">  
   <a href="https://github.com/bebe-Kexe">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=27F4D2&center=true&vCenter=true&width=435&lines=BYE+BYE+" alt="Typing SVG" />
