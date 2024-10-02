@@ -18,7 +18,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/bebe-Kexe">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bebe-Kexe&theme=tokyonight" alt="My Wakatime Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bebe_kexe&theme=tokyonight" alt="My Wakatime Stats" />
   </a>
 </p>
 <p align="center">
@@ -49,7 +49,7 @@
 ## Bye Bye
 <p align="center">  
   <a href="https://github.com/bebe-Kexe">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1500&color=27F4D2&center=true&vCenter=true&width=435&lines=BYE+BYE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1400&color=27F4D2&center=true&vCenter=true&width=435&lines=BYE+BYE" alt="Typing SVG" />
   </a>
 </p>
 
