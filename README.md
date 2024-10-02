@@ -18,7 +18,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/bebe-Kexe">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bebe-Kexe&theme=tokyonight" alt="My Wakatime Stats" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adityaseth777&&show_icons=true&theme=tokyonight" alt="My Wakatime Stats" />
   </a>
 </p>
 <p align="center">
