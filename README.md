@@ -98,7 +98,7 @@ Passionate about networks, cybersecurity, server infrastructure, and building th
 ## ⏱️ WakaTime Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=kexe_dev&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=bbbbbb&layout=compact" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=kexe_dev&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=bbbbbb&layout=compact&v=1" />
 </p>
 
 ---
