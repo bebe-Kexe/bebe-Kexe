@@ -87,11 +87,8 @@ Passionate about networks, cybersecurity, server infrastructure, and building th
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=kexe-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=aaaaaa&text_color=bbbbbb&count_private=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kexe-dev&theme=dark&hide_border=true&background=0d1117&ring=FF6600&fire=FF4500&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=666666" />
+  <img src="./profile/stats.svg" height="165"/>
+  <img src="./profile/top-langs.svg" height="165"/>
 </p>
 
 ---
