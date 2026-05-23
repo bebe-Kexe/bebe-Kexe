@@ -87,18 +87,20 @@ Passionate about networks, cybersecurity, server infrastructure, and building th
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=kexe-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=aaaaaa&text_color=bbbbbb&count_private=true" height="165"/>
+  <img src="https://stats.arqone.eu/api?username=kexe-dev&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=aaaaaa&text_color=bbbbbb" height="165"/>
 </p>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kexe-dev&theme=dark&hide_border=true&background=0d1117&ring=FF6600&fire=FF4500&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=666666" />
+  <img src="https://streakstats.arqone.eu/api?user=kexe-dev&theme=dark&hide_border=true&background=0d1117&ring=FF6600&fire=FF4500&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=666666" />
 </p>
+
 
 ---
 
 ## ⏱️ WakaTime Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=kexe_dev&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=bbbbbb&layout=compact&v=1" />
+  <img src="https://stats.arqone.eu/api/wakatime?username=kexe_dev&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=bbbbbb&layout=compact&v=1" />
 </p>
 
 ---
@@ -106,7 +108,7 @@ Passionate about networks, cybersecurity, server infrastructure, and building th
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kexe-dev&theme=react-dark&bg_color=0d1117&color=ffffff&line=555555&point=aaaaaa&hide_border=true" />
+  <img src="https://graphstats.arqone.eu/graph?username=kexe-dev&theme=react-dark&bg_color=0d1117&color=ffffff&line=555555&point=aaaaaa&hide_border=true&area=true&area_color=222222" />
 </p>
 
 ---
